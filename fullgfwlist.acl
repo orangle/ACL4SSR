@@ -14,8 +14,8 @@
 
 #**********************************************************************
 [proxy_list]
-
 # MyList
+(^|\.)liuliya\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
