@@ -15,6 +15,10 @@
 #**********************************************************************
 [proxy_list]
 # MyList
+app\.swaggerhub\.com$
+(^|\.)kaggle\.com$
+(^|\.)raml\.org$
+(^|\.)caddyserver\.com$
 (^|\.)liuliya\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
