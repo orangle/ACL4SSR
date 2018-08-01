@@ -15,6 +15,10 @@
 #**********************************************************************
 [proxy_list]
 # MyList
+(^|\.)slack\.com$
+(^|\.)slack-edge\.com$
+(^|\.)slack-imgs\.com$
+(^|\.)slack-msgs\.com$
 app\.swaggerhub\.com$
 (^|\.)kaggle\.com$
 (^|\.)raml\.org$
